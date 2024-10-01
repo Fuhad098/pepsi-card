@@ -1,0 +1,72 @@
+#body{
+	background-color: black;
+	background-image: url(2.pg);
+	font-size: 16px;
+	background-size: contain;
+}
+
+.pepsi{
+	background-color: #004B93;
+	text-align: center;
+	background-size: contain;
+	margin-left: 400px;
+	margin-right: 400px;
+
+	transform: translate(0px,105px);
+	border-radius: 20px;
+	opacity: .7;
+	box-shadow: 1px 1px 13px #EB0029;
+	
+
+
+}
+.image{
+	transform: translate(-90px,30px);
+	height: 20vh;
+	mix-blend-mode: multiply;
+	text-align: right;
+
+
+	
+}
+body{
+	background-color: #302929;
+}
+h1{
+	transform: translateY(10px);
+	color: white;
+}
+#funny{
+	color: #FFFFFF;
+	text-align: justify;
+	transform: translateY(-90px);
+	padding-left: 30px;
+	font-family: cursive;
+
+}
+
+.Shop{
+	transform: translate(-180px, -50px);
+	background-color: red;
+	color: white;
+	text-align: left;
+	padding-left: 10px;
+	margin-left: 210px;
+	margin-right: 230px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: right;
+	padding-right: 15px;
+	font-family: cursive;
+
+
+}
+p{
+	color: white;
+}
+@media (min-width: 540px){
+	body{
+		min-width: 540px;
+	}
+}
