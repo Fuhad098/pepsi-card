@@ -65,8 +65,8 @@ h1{
 p{
 	color: white;
 }
-@media (min-width: 540px){
-	body{
-		min-width: 540px;
+@media screen and (max-width:1366px) and (min-width:538 ){
+	#body{
+		width: 50%;
 	}
 }
