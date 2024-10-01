@@ -1,6 +1,5 @@
 #body{
 	background-color: black;
-	background-image: url(2.pg);
 	font-size: 16px;
 	background-size: contain;
 }
@@ -65,8 +64,9 @@ h1{
 p{
 	color: white;
 }
-@media screen and (max-width:1366px) and (min-width:538 ){
-	#body{
-		width: 50%;
+@media screen  (max-width:768px){
+	.pepsi{
+		width: 90%;
+		padding: 15px;
 	}
 }
