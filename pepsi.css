@@ -43,7 +43,7 @@ h1{
 	text-align: justify;
 	transform: translateY(-90px);
 	padding-left: 30px;
-	font-family: cursive;
+	font-style: italic;
 
 }
 
@@ -60,7 +60,8 @@ h1{
 	padding-bottom: 5px;
 	text-align: right;
 	padding-right: 15px;
-	font-family: cursive;
+	font-style:italic;
+	opacity: .9;
 
 
 }
@@ -85,6 +86,8 @@ p{
 	  transform: translateY(-50px);
 	}
   }
+
+  
   
   @media (max-width: 320px) {
 	body {
