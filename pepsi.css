@@ -11,8 +11,8 @@
 	background-color: #004B93;
 	text-align: center;
 	background-size: contain;
-	margin-left: 400px;
-	margin-right: 400px;
+	margin-left: 350px;
+	margin-right: 450px;
 
 	transform: translate(0px,105px);
 	border-radius: 20px;
@@ -78,10 +78,7 @@ p{
 	  margin-right: 2%;
 	  transform: translate(0px, 50px);
 	}
-	.Shop {
-	  margin-left: 5%;
-	  margin-right: 5%;
-	}
+	
 	#funny {
 	  transform: translateY(-50px);
 	}
@@ -98,10 +95,7 @@ p{
 	  margin-right: 1%;
 	  transform: translate(0px, 30px);
 	}
-	.Shop {
-	  margin-left: 20%;
-	  margin-right: 2%;
-	}
+	
 	#funny {
 	  transform: translateY(-30px);
 	}
